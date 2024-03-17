@@ -34,8 +34,8 @@ Backup Hub is an Android application designed to facilitate easy backup and rest
 
 ## Technologies Used
 
-- **Programming Language:** Kotlin
-- **Android Architecture:** MVVM (Model-View-ViewModel)
+- **Programming Language:** ## Kotlin
+- **Android Architecture:** ## MVVM (Model-View-ViewModel)
 - **Libraries/Tools:**
   - Android Jetpack Components (ViewModel, LiveData, etc.)
   - Google Drive API
