@@ -74,12 +74,14 @@ Backup Hub is an Android application designed to facilitate easy backup and rest
 
 ## Screenshots
 
+<p float="left">
   <img src="https://github.com/fahaddhabib/Backup-Restore-Hub/blob/main/assets/ss1.png" width="200" />
   <img src="https://github.com/fahaddhabib/Backup-Restore-Hub/blob/main/assets/ss2.jpg" width="200" />
   <img src="https://github.com/fahaddhabib/Backup-Restore-Hub/blob/main/assets/ss3.jpg" width="200" />
   <img src="https://github.com/fahaddhabib/Backup-Restore-Hub/blob/main/assets/ss4.png" width="200" />
   <img src="https://github.com/fahaddhabib/Backup-Restore-Hub/blob/main/assets/ss5.png" width="200" />
   <img src="https://github.com/fahaddhabib/Backup-Restore-Hub/blob/main/assets/ss6.jpg" width="200" />
+</p>
 
 ## License
 
