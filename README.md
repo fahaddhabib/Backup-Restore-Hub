@@ -4,7 +4,10 @@
 
 ## Overview
 
-Backup Hub is an Android application designed to facilitate easy backup and restore functionalities for various data types, including calls, calendar events, SMS messages, and contacts. The app leverages Google Drive for secure cloud storage and provides a user-friendly interface for managing backups.l
+Backup Hub is an Android application designed to facilitate easy backup and restore functionalities for various data types, including calls, calendar events, SMS messages, and contacts. The app leverages Google Drive for secure cloud storage and provides a user-friendly interface for managing backups.
+
+[![Google Play Store](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/search?q=backup%20hub&c=apps&hl=en&gl=US)
+
 
 ## Features
 
