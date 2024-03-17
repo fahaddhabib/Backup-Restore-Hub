@@ -47,11 +47,11 @@ Backup Hub is an Android application designed to facilitate easy backup and rest
   - Android DataStore for preferences
   - ReviewManager API for in-app reviews
 
-Project Details
+## Project Details
 
 This project was developed with a focus on scalability, maintainability, and user-centric design. The architecture follows the MVVM pattern, separating concerns and facilitating testability and extensibility. By leveraging modern Android development practices and industry-standard libraries and tools, Backup Hub delivers a high-quality user experience while maintaining code quality and robustness.
 
-Future Enhancements
+## Future Enhancements
 
 While the current version of Backup Hub offers a comprehensive set of features and functionalities, there is always room for improvement. Some potential enhancements for future iterations of the app include:
     Enhanced Backup Options:
