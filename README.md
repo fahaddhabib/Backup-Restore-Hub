@@ -105,5 +105,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Feel free to explore, use, and contribute to Backup Hub! If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request. Happy coding!
-```
+## Note
+
+This project is intended for portfolio purposes only and is not publicly available. If you have any inquiries or would like to discuss potential collaboration opportunities, please feel free to reach out via iamfahad1296@gmail.com. Thank you for your interest in Backup Hub!
