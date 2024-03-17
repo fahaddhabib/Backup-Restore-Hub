@@ -104,6 +104,55 @@ Investigate opportunities for expanding Backup Hub's compatibility to other plat
 This project is licensed under the [MIT License](LICENSE).
 
 ---
+## Acknowledgments
+Third-Party Libraries and Frameworks
+
+    User Messaging Platform by Google: Used for user consent.
+        License: Apache License 2.0
+
+    Google Play Services Ads: Integrated for displaying ads in the application.
+        License: Google APIs Terms of Service
+
+    Android Lifecycle Components: Utilized for lifecycle management in Android applications.
+        License: Apache License 2.0
+
+    Billing Client Library for Android: Integrated for in-app purchases functionality.
+        License: Apache License 2.0
+
+    Work Manager by Google: Used for managing background tasks in the application.
+        License: Apache License 2.0
+
+    Firebase SDK: Integrated for analytics, crash reporting, and messaging functionalities.
+        License: Apache License 2.0
+
+    In-App Review Library: Utilized for prompting users to leave reviews within the app.
+        License: Apache License 2.0
+
+    Legacy Support Library: Used for providing backward compatibility support.
+        License: Apache License 2.0
+
+    Glide Image Loading Library: Integrated for efficient image loading and caching.
+        License: BSD, part MIT and Apache 2.0
+
+    Kotlin Coroutines: Used for asynchronous programming.
+        License: Apache License 2.0
+
+    Android DataStore: Used as a replacement for SharedPreferences.
+        License: Apache License 2.0
+
+    Material Dialogs: Utilized for implementing bottom sheets in the application.
+        License: Apache License 2.0
+
+    Google API Client for Android and Google Drive API Services: Integrated for Google Drive integration.
+        License: Apache License 2.0
+
+    Navigation Component: Utilized for navigation within the application.
+        License: Apache License 2.0
+
+Additional Resources
+
+    JUnit and Espresso: Used for testing purposes.
+        License: Eclipse Public License - v 1.0
 
 ## Note
 
